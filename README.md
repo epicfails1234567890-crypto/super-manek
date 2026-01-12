@@ -1,4 +1,5 @@
 # super-manek
 
-![confort auto 4](https://github.com/user-attachments/assets/a23fe6f4-6eea-4cdd-b871-9592e819f025)
+![confort auto 6](https://github.com/user-attachments/assets/9f1dc179-2f03-49ee-9cd1-e28d7eaea6a0)
+
 
