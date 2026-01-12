@@ -9,5 +9,3 @@
 <img width="623" height="456" alt="image" src="https://github.com/user-attachments/assets/a2324297-a225-4be8-9cca-5484f987adad" />
 
 <img width="614" height="473" alt="image" src="https://github.com/user-attachments/assets/599684f6-77cb-45e0-9355-b1f1442cf009" />
-
-<img width="614" height="473" alt="image" src="https://github.com/user-attachments/assets/6f244303-97f9-4d83-8667-1bc38799a5d7" />
