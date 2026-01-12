@@ -1,5 +1,7 @@
 # super-manek
 
+<img width="410" height="411" alt="image" src="https://github.com/user-attachments/assets/4b87492c-75a7-4ab7-a95b-f14f115b409b" />
+
 <img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/cac7c9c8-38b6-40e9-9898-5630c90d9e32" />
 
 <img width="614" height="461" alt="image" src="https://github.com/user-attachments/assets/c9033920-7eb8-4176-aab0-23b8f697d49d" />
